@@ -7,10 +7,11 @@ namespace TodoApi.Models
 {
     public class UserParam
     {
+        //primary Key
         public int id { get; set; }
-        // 유저 고유키
+        // unique Key
         public string user_key { get; set; }
-        //유저 아이디
+        //unique Key
         public string user_id { get; set; }
         public string name { get; set; }
         public int lv { get; set; }
