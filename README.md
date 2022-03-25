@@ -13,3 +13,7 @@ c#을 이용한 간단한 RestAPI
 - MySql.Data.EntityFrameworkCore
 
 및 데이터 베이스 설치 필요
+
+
+간단한 c# RestApi 구현하여 작성하였습니다.
+부족한 점이 많습니다. 
